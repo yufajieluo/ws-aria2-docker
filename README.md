@@ -1,2 +1,2 @@
-# ws-docker-aria2
-ws-docker-aria2
+# ws-aria2-docker
+aria2 docker install script
